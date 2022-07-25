@@ -3,5 +3,16 @@ body {
     color: #fff;
     padding: 25px;
     font-family: sans-serif;
+    padding-bottom: 20px;
   }
-  
+  h1 {
+    font-size: 4rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
+h3 {
+    font-size: 2rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:blueviolet;
+    padding-bottom: 20px;
+}

@@ -2,22 +2,26 @@
 // Easy Going
 ////////////////////////////////
 
-for(let i = 1; i <= 20; i++) {
-    console.log(i);
-    }
-
-
-
+//for(let i = 1; i <= 20; i++) {
+   // console.log(i);
+   // }
 
 
 ////////////////////////////////
 // Get Even
 ////////////////////////////////
 
+// for(let i = 2; i <= 200; i++) {
+//   const isEven = i % 2 === 0;
+//   if(isEven) {
+//     console.log(i);
+//   }
+// }
 
-
-
-
+// used previous expression and adjusted 
+// the count, and added the const expression,
+// modular is similar to division, 
+// and if by 2, should do so evenly where the remainder is 0
 
 
 

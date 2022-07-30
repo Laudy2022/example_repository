@@ -37,34 +37,14 @@ for(let i = 1; i <= 100; i++) {
   }
 
 
-
-
-// const grade= 93
-
-
-// if(grade >= 90) {
-// console.log("A")
-
-// } else if(grade >= 80) {
-//     console.log("B")
-
-// }else if(grade >= 70){
-//     console.log("C")
-
-// } else if(grade >= 55){
-//     console.log("D")
-// } else {
-//     console.log("F")
-// }
-
-
-
-
-
 ////////////////////////////////
 // Wild Wild Life
 ////////////////////////////////
-
+// const wolfy = ["Wolfy", "wolf", 16, "Yukon Territory"]
+// const sharky = ["Sharky", "shark", 20, "Left Coast"]
+// const plantee = ["Plantee", "plant",  5000 , "Mordor"]
+// const porgee = ["Porgee", "Porg", 186, "Ahch-To"]
+// const dart = ["D'Art" , "Demogorgan Dog", 2, "Upside Down"]
 
 
 

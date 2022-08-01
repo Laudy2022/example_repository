@@ -147,6 +147,7 @@ undefined-
 
 // let result = [];
 // const stringToRepeat = 'Hi';
+
 // for(let i = 0; i < 15; i++){
 //     result.push(stringToRepeat);
 // } (example provided by Carter)
@@ -171,7 +172,38 @@ undefined-
 /////////////////////////////////////////////////////////////////
 // Loop through an array (use both a for loop and a while loop)//
 ////////////////////////////////////////////////////////////////
+// let candy =[
+//     {
+//         type: "snickers",
+//         shape: "bar",
+//         year: 1930,
+//         color: "brown"
+//     },
+//     {
+//         type: "MandMs",
+//         shape: "pieces",
+//         year: 1941,
+//         color: "multi" 
+//     },
+//     {
+//         type: "KitKat",
+//         shape: "bar",
+//         year: 1935,
+//         color: "brown"   
+//     },
+//     {
+//         type: "BabyRuth",
+//         shape: "bar",
+//         year: 1921,
+//         color: "lightBrown" 
+//     }
+// ]
+// //console.log(candy[0].type)
 
+// for(let i = 0; i< 1942; i++)
+//     console.log(candy)
+
+//     Shows all data in array
 
 ////////////////////////////
 // Loop from left to right//
@@ -235,3 +267,41 @@ undefined-
 // A (91.5-100), A-(88.5-91.5), B+(84.5-88.5), B(81.5-84.5), B-(77.5-81.5)//////////////
 //C+(74.5-77.5), C(70.5-74.5), C-(67.5-70.5), D(64.5-67.5), F0-64.5/////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////
+
+
+// const grade = 65
+
+
+//  if(grade > 91.5 && grade <= 100) {
+//  console.log("A")
+
+//  } else if(grade > 88.5 && grade <= 91.5) {
+//      console.log("A-")
+
+//  } else if(grade > 84.5 && grade <= 88.5){
+//      console.log("B+")
+
+//  } else if(grade > 81.5 && grade <= 84.5){
+//      console.log("B")
+
+//  } else if(grade > 77.5 && grade <= 81.5){
+//         console.log("B-")
+
+//  } else if(grade > 74.5 && grade <= 77.5){
+//         console.log("C+")
+
+//  } else if(grade > 70.5 && grade <= 74.5){
+//         console.log("C")
+
+//  } else if(grade > 67.5 && grade <= 70.5){
+//         console.log("C-") 
+ 
+//  } else if(grade > 64.5 && grade <= 67.5){
+//         console.log("D")
+
+//  } else {
+//      console.log("F")
+//  }
+
+
+//received desired output upon changed grade

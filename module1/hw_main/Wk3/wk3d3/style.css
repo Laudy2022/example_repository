@@ -1,0 +1,39 @@
+h1{
+    color:blueviolet
+}
+* {
+    /* height & width now includes border & padding */
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Helvetica;
+  }
+  /*
+  *the line "display:flex"
+  *is all you need to use flexbox
+  *it will flex all of your child elements
+  */
+  nav{
+    height: 50px;
+    background-color: blueviolet;
+    display:flex;
+    font-size: 20px;
+    /* flex-direction: column-reverse; */
+    justify-content: center;
+    /*look up justiry content properties*/
+  }
+
+  /*
+  *margin: 10px - but what do you attach to it?
+  */
+  div{
+    font-size: 20px;
+    margin: 10px;
+    color: #f3dba8;
+  }
+
+  nav> div:last-child {
+    margin-left: auto;
+  }

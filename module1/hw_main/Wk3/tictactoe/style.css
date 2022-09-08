@@ -1,0 +1,13 @@
+.grid {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: min-content;
+    border: solid red 1px;
+  }
+  
+  .square {
+    height: 150px;
+    width: 150px;
+    border: solid black 1px;
+  }

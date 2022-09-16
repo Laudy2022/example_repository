@@ -121,9 +121,9 @@ binary tree
             // stackoverflow.com
             
 
-function areaOfCircle(Math.PI * radius * radius);
+// function areaOfCircle(Math.PI * radius * radius);
 
-let radius (7);
+// let radius (7);
 
 
 
